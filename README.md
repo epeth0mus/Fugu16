@@ -1,4 +1,4 @@
-# Fugu16 - Untethered iOS 14 Jailbreak
+# Fugu16 - Untethered iOS 16 Jailbreak
 
 Fugu16 is an (incomplete) iOS 16 Jailbreak, including an untether (persistence), kernel exploit, kernel PAC bypass and PPL bypass.
 The CVE numbers of the vulnerabilities are: CVE-2021-30740, CVE-2021-30768, CVE-2021-30769, CVE-2021-30770 and CVE-2021-30773.

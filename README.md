@@ -5,8 +5,8 @@ The CVE numbers of the vulnerabilities are: CVE-2021-30740, CVE-2021-30768, CVE-
 
 # Supported Devices/iOS Versions
 
-Fugu16 *should* support all arm64e devices (iPhone XS and newer) on iOS 14.3 - 14.5.1.  
-Support for lower versions (down to 14.2) can be added by editing `arm/shared/ClosurePwn/Sources/ClosurePwn/PwnClosure.swift` and `arm/shared/KernelExploit/Sources/KernelExploit/offsets.swift`.  
+Fugu16 *should* support all arm64e devices (iPhone XS and newer) on iOS 16.  
+Support for lower versions (down to 15.2) can be added by editing `arm/shared/ClosurePwn/Sources/ClosurePwn/PwnClosure.swift` and `arm/shared/KernelExploit/Sources/KernelExploit/offsets.swift`.  
 
 arm64 devices are not supported because the exploit to install the Fugu16 App does not work on these devices.  
 However, it is in theory possible to install the untether on them (e.g. via checkra1n).  
